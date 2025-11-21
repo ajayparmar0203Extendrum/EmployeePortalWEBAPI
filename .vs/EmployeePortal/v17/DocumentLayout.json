@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\container\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\container\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\viewmodels\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\viewmodels\\employeelistviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\viewmodels\\employeelistviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\viewmodels\\employeecreateupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\viewmodels\\employeecreateupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\models\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\models\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\data\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\data\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|d:\\ajay\\tyler\\dotnetangular\\sharepoint_csharp\\employeeportal\\employeeportal\\migrations\\20251003062619_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8C4B12-1CEB-4112-A974-2232EBF23DE8}|EmployeePortal\\EmployeePortal.csproj|solutionrelative:employeeportal\\migrations\\20251003062619_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmployeePortal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFUAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:58:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeListViewModels.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\ViewModels\\EmployeeListViewModels.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\ViewModels\\EmployeeListViewModels.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\ViewModels\\EmployeeListViewModels.cs",
+              "RelativeToolTip": "EmployeePortal\\ViewModels\\EmployeeListViewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T07:04:27.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\ViewModels\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\ViewModels\\EmployeeModel.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\ViewModels\\EmployeeModel.cs",
+              "RelativeToolTip": "EmployeePortal\\ViewModels\\EmployeeModel.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:40:17.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Program.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Program.cs",
+              "RelativeToolTip": "EmployeePortal\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:13:45.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Service\\EmployeeService.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeePortal\\Service\\EmployeeService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAArwEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:50:39.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Container\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Container\\IEmployeeService.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Container\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeePortal\\Container\\IEmployeeService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswBUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:50:20.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Models\\Employee.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeePortal\\Models\\Employee.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:23:00.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "APIResponse.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Helper\\APIResponse.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Helper\\APIResponse.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Helper\\APIResponse.cs",
+              "RelativeToolTip": "EmployeePortal\\Helper\\APIResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:43:43.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Data\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Data\\EmployeeDto.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Data\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeePortal\\Data\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:03:22.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeCreateUpdateViewModel.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\ViewModels\\EmployeeCreateUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\ViewModels\\EmployeeCreateUpdateViewModel.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\ViewModels\\EmployeeCreateUpdateViewModel.cs",
+              "RelativeToolTip": "EmployeePortal\\ViewModels\\EmployeeCreateUpdateViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:56:27.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Models\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Models\\EmployeeType.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Models\\EmployeeType.cs",
+              "RelativeToolTip": "EmployeePortal\\Models\\EmployeeType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:23:36.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Models\\Designation.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Models\\Designation.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Models\\Designation.cs",
+              "RelativeToolTip": "EmployeePortal\\Models\\Designation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:22:16.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EmployeePortal\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:24:06.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251003062619_initialmigration.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Migrations\\20251003062619_initialmigration.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Migrations\\20251003062619_initialmigration.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Migrations\\20251003062619_initialmigration.cs",
+              "RelativeToolTip": "EmployeePortal\\Migrations\\20251003062619_initialmigration.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAYwMwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:26:19.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Models\\Department.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeePortal\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:21:34.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeePortal\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "EmployeePortal\\Data\\AppDBContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:17:34.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeePortal\\appsettings.json",
+              "ToolTip": "D:\\Ajay\\Tyler\\DotNetAngular\\SharePoint_CSharp\\EmployeePortal\\EmployeePortal\\appsettings.json",
+              "RelativeToolTip": "EmployeePortal\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T06:11:53.824Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
