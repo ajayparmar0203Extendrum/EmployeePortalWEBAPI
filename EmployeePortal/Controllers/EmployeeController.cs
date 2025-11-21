@@ -82,6 +82,7 @@ namespace EmployeePortal.Controllers
             return Ok(created); // return created employee object (with Id)
         }
 
+        //deleteemployee method
         [HttpDelete("deleteemployee")]
         public async Task<IActionResult> DeleteEmployee(int empId)
         {
