@@ -59,6 +59,7 @@ namespace EmployeePortal.Controllers
             return Ok(vm);
         }
 
+        //this method for create new employee
         [HttpPost("createemployee")]
         public async Task<IActionResult> Create(EmployeeModel vm)
         {
@@ -82,6 +83,7 @@ namespace EmployeePortal.Controllers
             return Ok(created); // return created employee object (with Id)
         }
 
+        //deleteemployee method
         [HttpDelete("deleteemployee")]
         public async Task<IActionResult> DeleteEmployee(int empId)
         {
