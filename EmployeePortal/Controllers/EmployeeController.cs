@@ -59,6 +59,7 @@ namespace EmployeePortal.Controllers
             return Ok(vm);
         }
 
+        //this method for create new employee
         [HttpPost("createemployee")]
         public async Task<IActionResult> Create(EmployeeModel vm)
         {
